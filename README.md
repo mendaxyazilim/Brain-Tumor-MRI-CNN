@@ -3,6 +3,10 @@ Using Convolutional Neural Networks to detect brain tumors in MRI scans.
 Hopefully in this future medical imaging diagnosis can be automated or at least give doctors a second opinion
 
 # Results
+
+![normal](https://raw.githubusercontent.com/vee-upatising/Brain-Tumor-MRI-CNN/master/normal.JPG)
+![tumor](https://github.com/vee-upatising/Brain-Tumor-MRI-CNN/blob/master/tumor.JPG)
+
 ![normal](https://raw.githubusercontent.com/vee-upatising/Brain-Tumor-MRI-CNN/master/normal%20(2).JPG)
 ![tumor](https://github.com/vee-upatising/Brain-Tumor-MRI-CNN/blob/master/tumor2.JPG)
 
