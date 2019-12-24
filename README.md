@@ -1,5 +1,5 @@
 # Brain-Tumor-MRI-CNN
-Using Convolutional Neural Networks to detect brain tumors in MRI scans
+Using Convolutional Neural Networks to detect brain tumors in MRI scans.
 Hopefully in this future medical imaging diagnosis can be automated or at least give doctors a second opinion
 
 # Results
@@ -10,4 +10,4 @@ Hopefully in this future medical imaging diagnosis can be automated or at least 
 
 # [Dataset](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)
 
-# [Kaggle Notebook](https://www.kaggle.com/function9/kernel2d646b5274)
+# [Kaggle Notebook](https://www.kaggle.com/function9/brain-tumor-mri-cnn-classification-with-keras)
